@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "name": "Nikola",
+      "email": "nikola.n@abv.bg",
+      "password": "test123",
+      "id": 0
+    },
+    {
+      "name": "Niko Nedko",
+      "email": "nikola.n@abv.bg",
+      "password": "ddz123",
+      "id": 1
+    }
+  ]
+}
